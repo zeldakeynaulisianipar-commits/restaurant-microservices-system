@@ -207,7 +207,7 @@ flowchart TB
 ## 📂 Struktur Proyek
 
 ```bash
-restaurant-microservices-main/
+restaurant-microservices-system/
 │
 ├── 📁 frontend/                 # Aplikasi React
 │   ├── src/
@@ -355,15 +355,13 @@ git --version
 Buka terminal/command prompt, lalu jalankan:
 
 ```bash
-git clone https://github.com/your-username/restaurant-microservices.git
+git clone https://github.com/zeldakeynaulisianipar-commits/restaurant-microservices-system.git
 ```
-
-> 💡 **Catatan**: Ganti `your-username` dengan username GitHub Anda yang sebenarnya.
 
 #### **Langkah 2: Masuk ke Folder Proyek**
 
 ```bash
-cd restaurant-microservices-main
+cd restaurant-microservices-system
 ```
 
 #### **Langkah 3: Verifikasi Struktur File**
@@ -914,7 +912,7 @@ docker compose ps
 
 # 2. Cek network
 docker network ls
-docker network inspect restaurant-microservices-main_default
+docker network inspect restaurant-microservices-system_default
 
 # 3. Restart semua service
 docker compose restart
@@ -971,7 +969,7 @@ Jika masalah masih berlanjut:
 
 1. **Buat Issue di GitHub**
    ```
-   https://github.com/your-username/restaurant-microservices/issues
+   https://github.com/zeldakeynaulisianipar-commits/restaurant-microservices-system/issues
    ```
 
 2. **Sertakan Informasi**:
@@ -1002,7 +1000,7 @@ Kami sangat terbuka untuk kontribusi! Berikut langkahnya:
 
 2. **Clone Fork Anda**
    ```bash
-   git clone https://github.com/your-username/restaurant-microservices.git
+   git clone https://github.com/your-username/restaurant-microservices-system.git
    ```
 
 3. **Buat Branch Baru**
@@ -1028,7 +1026,7 @@ Kami sangat terbuka untuk kontribusi! Berikut langkahnya:
 
 ---
 
-## ## 📞 Kontak
+## 📞 Kontak
 
 | Platform | Link |
 |----------|------|
