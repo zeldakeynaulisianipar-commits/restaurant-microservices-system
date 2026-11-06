@@ -984,11 +984,12 @@ Jika masalah masih berlanjut:
 
 ### Author
 
-**Defris Doloksaribu**  
-Computer Technology Student | Microservices & DevOps Enthusiast
+**Zelda Keyzia Nauli Br Sianipar**  
+D3 Computer Technology Student, Institut Teknologi Del | IoT & Embedded Systems Enthusiast
 
-GitHub: [defrisdoloksaribu](https://github.com/defrisdoloksaribu)  
-Email: defrisdoloksaribu@gmail.com
+GitHub: [zeldakeynaulisianipar-commits](https://github.com/zeldakeynaulisianipar-commits)  
+Email: zeldakeynaulisianipar@gmail.com
+
 ### Cara Berkontribusi
 
 Kami sangat terbuka untuk kontribusi! Berikut langkahnya:
@@ -1030,12 +1031,14 @@ Kami sangat terbuka untuk kontribusi! Berikut langkahnya:
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | defrisdoloksaribu@gmail.com |
-| 🐙 GitHub | [github.com/defrisdoloksaribu](https://github.com/defrisdoloksaribu) |
+| 📧 Email | zeldakeynaulisianipar@gmail.com |
+| 🐙 GitHub | [github.com/zeldakeynaulisianipar-commits](https://github.com/zeldakeynaulisianipar-commits) |
 
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah **MIT License**.
+
+Dikembangkan dari karya awal **Defris Doloksaribu** ([defrisdoloksaribu](https://github.com/defrisdoloksaribu)), sesuai ketentuan MIT License untuk tetap mencantumkan pemegang hak cipta asli.
 
 ### Apa yang Boleh Dilakukan?
 
@@ -1098,7 +1101,7 @@ Jika proyek ini bermanfaat, jangan lupa:
 📢 **Share ke teman-teman developer**  
 
 ---
-© 2026 Defris Doloksaribu. All rights reserved.
+© 2026 Zelda Keyzia Nauli Br Sianipar. All rights reserved.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Node.js-339933?style=for-the-badge&logo=node.js" />
